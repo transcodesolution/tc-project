@@ -52,7 +52,7 @@ const Navbar = () => {
             {/* Left section */}
             <div className="flex items-center space-x-2">
                 <Link href="mailto:company@example.com">
-                    <span className="hover:underline">company@example.com</span>
+                    <span className="hover:underline">company@example123.com</span>
                 </Link>
             </div>
 
