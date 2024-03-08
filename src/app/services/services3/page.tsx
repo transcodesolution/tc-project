@@ -1,0 +1,17 @@
+import HeroSection from "@/app/components/HeroSection";
+import style from "../styles.module.scss"
+import systemIntegration from "../../../../public/Assets/systemIntegration.png"
+
+const services3 = () => {
+
+    return (
+        <div
+            className={style.heroBgImage}
+
+        >
+            <HeroSection image={systemIntegration} />
+        </div>
+    );
+};
+
+export default services3;

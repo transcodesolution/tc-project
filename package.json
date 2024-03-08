@@ -9,12 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@headlessui/react": "^1.7.18",
     "mdb-react-ui-kit": "^7.2.0",
     "next": "^14.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icon": "^1.0.0",
-    "react-icons": "^5.0.1"
+    "react-icons": "^5.0.1",
+    "sass": "^1.71.1"
   },
   "devDependencies": {
     "@types/node": "^20",

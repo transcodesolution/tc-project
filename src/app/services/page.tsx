@@ -7,6 +7,7 @@ const Services = () => {
             {/* <HeroSection
                 image={contact}
             /> */}
+            <h1>Service</h1>
         </div>
     )
 }

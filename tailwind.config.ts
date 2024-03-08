@@ -20,9 +20,14 @@ const config: Config = {
         blue: '#277D9B',
         gray: "#F2F2F2",
       },
-      textColor:{
+      textColor: {
         blue: '#277D9B',
-      }
+        gray:"#888888",
+        black:"#000000",
+      },     
+      boxShadow: {
+        blue: '1px 1px 20px 4px #277D9B',
+      },
     },
   },
   plugins: [],
