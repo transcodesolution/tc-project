@@ -27,7 +27,7 @@ const ContactUs = () => {
             className={style.heroBgImage}
            
         >
-            <HeroSection image={contact1} />
+            <HeroSection image={contact1} text={"Contact Us"}/>
         </div>
     );
 };

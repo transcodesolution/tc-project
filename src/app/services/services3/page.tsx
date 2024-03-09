@@ -7,11 +7,12 @@ const services3 = () => {
     return (
         <div
             className={style.heroBgImage}
-
         >
-            <HeroSection image={systemIntegration} />
+            <HeroSection image={systemIntegration} text={"SYSTEM INTEGRATION SERVICES"} discription={"Bridging the Gap and Unlocking Your Potential"} />
         </div>
     );
 };
 
 export default services3;
+
+

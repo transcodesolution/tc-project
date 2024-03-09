@@ -21,9 +21,10 @@ const config: Config = {
         gray: "#F2F2F2",
       },
       textColor: {
-        blue: '#277D9B',
+        blue: '#277D9B', 
         gray:"#888888",
         black:"#000000",
+        headertext:'#278FBC',
       },     
       boxShadow: {
         blue: '1px 1px 20px 4px #277D9B',

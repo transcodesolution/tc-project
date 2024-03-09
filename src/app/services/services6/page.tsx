@@ -7,9 +7,8 @@ const services6 = () => {
     return (
         <div
             className={style.heroBgImage}
-
         >
-            <HeroSection image={qualityTesting} />
+            <HeroSection image={qualityTesting} text={"QUALITY ASSURANCE AND TESTING"} discription={"Establishing Trust and Achieving Excellence"} />
         </div>
     );
 };

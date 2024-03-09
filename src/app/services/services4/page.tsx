@@ -7,11 +7,11 @@ const services4 = () => {
     return (
         <div
             className={style.heroBgImage}
-
         >
-            <HeroSection image={managedServices} />
+            <HeroSection image={managedServices} text={"MANAGED IT SERVICES"} />
         </div>
     );
 };
 
 export default services4;
+

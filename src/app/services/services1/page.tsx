@@ -8,9 +8,8 @@ const services1 = () => {
     return (
         <div
             className={style.heroBgImage}
-
         >
-            <HeroSection image={softwareDevelopment} />
+            <HeroSection image={softwareDevelopment} text={"Software Development"} discription={"Software development refers to the process of designing computer applications from their initial conception through completion, consisting of several steps."} />
         </div>
     );
 };
