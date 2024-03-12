@@ -19,6 +19,9 @@ const config: Config = {
       backgroundColor: {
         blue: '#277D9B',
         gray: "#F2F2F2",
+        sky: '#E8F8FF',
+        // radiant:"#A4E7EB"
+        radiant: 'rgba(164, 231, 235, 0.55)'
       },
       textColor: {
         blue: '#277D9B', 
@@ -29,6 +32,9 @@ const config: Config = {
       boxShadow: {
         blue: '1px 1px 20px 4px #277D9B',
       },
+      borderColor:{
+        blue: '#277D9B', 
+      }
     },
   },
   plugins: [],
